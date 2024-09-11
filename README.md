@@ -8,7 +8,7 @@ This project aims to predict the price of Toyota Corolla cars using multiple lin
 ## Dataset Description:
 </br>
 The dataset used in this project includes the following variables:
-</br>
+
 - Age: Age of the car in years.
 * KM: Accumulated kilometers on the odometer.
 + FuelType: Type of fuel used (Petrol, Diesel, CNG).
@@ -21,12 +21,12 @@ The dataset used in this project includes the following variables:
 - Price: Offer price of the car in euros.
 
 ## Project Tasks:
-</br>
+
 - Perform initial data exploration to gain insights into the dataset.
 * Generate summary statistics and visualizations to understand variable distributions and relationships.
 
 ## Data Preprocessing:
-</br>
+
 - Handle missing values and data inconsistencies.
 * Encode categorical variables and normalize/standardize numerical features as needed.
 + Split the dataset into training (80%) and testing (20%) sets.
@@ -41,14 +41,14 @@ The dataset used in this project includes the following variables:
 
 - Evaluate the performance of the models using appropriate metrics such as R-squared, Mean Absolute Error (MAE), and Mean Squared Error (MSE).
 * Assess the effectiveness of the models on the testing dataset.
-</br>
+
 
 ## Tools and Libraries:
-Programming Languages: Python
-Data Manipulation Libraries: Pandas, NumPy
-Data Visualization Libraries: Matplotlib, Seaborn
-Modeling Libraries: statsmodels
-Notebooks/IDE: Google Colab
+- Programming Languages: Python
+* Data Manipulation Libraries: Pandas, NumPy
++ Data Visualization Libraries: Matplotlib, Seaborn
+- Modeling Libraries: statsmodels
+* Notebooks/IDE: Google Colab
 </br>
 
 ## Results:
